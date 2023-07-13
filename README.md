@@ -95,6 +95,7 @@ pkg install imagemagick -y
 git clone https://github.com/sainikhil1729/WA-SN-V1
 cd CheemsBot-MD8
 yarn install
+rm -rf session
 npm start
 ```
 ## `For VPS`
