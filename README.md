@@ -76,8 +76,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/sainikhil1729/WA-SN-V1.git
-cd CheemsBot-MD8
-
+cd WA-SN-V1
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -93,7 +92,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/sainikhil1729/WA-SN-V1
-cd CheemsBot-MD8
+cd WA-SN-V1
 yarn install
 rm -rf session
 npm start
@@ -107,7 +106,7 @@ apt apt install libwebp
 apt apt install imagrmagick
 apt install bash
 git clone https://github.com/sainikhil1729/WA-SN-V1
-cd CheemsBot-MD8
+cd WA-SN-V1
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
