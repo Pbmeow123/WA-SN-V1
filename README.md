@@ -33,9 +33,9 @@ WA-SN-V1 Bot Multi Device is a automated whatsapp bot created by <a href="https:
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
+<a href="https://wa.me/919505579643"><img src="https://img.shields.io/badge/Contact sainikhil-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="NOGRUOPLINK"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="NOTUBE"><img src="https://img.shields.io/badge/Subscribe SAINIKHIL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@NOTUBE" /><br>
 </p>
 
 ## ```Donate Me```
