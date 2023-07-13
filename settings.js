@@ -24,22 +24,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['919505579643'] //ur owner number
 global.ownernomer = "919505579643" //ur owner number2
 global.ownername = "NIKHIL" //ur owner name
-global.ytname = "YT: NOTUBE" //ur yt chanel name
-global.socialm = "GitHub: NOSOCIAL" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: https://chat.whatsapp.com/IR1FCvKT2Cw05jwJVYyIN" //ur yt chanel name
+global.socialm = "instagram: https://instagram.com/nikki_rs200_rider?igshid=ZDc4ODBmNjlmNQ==" //ur instagram or insta name
+global.location = "India" //ur location
 
 //new
-global.botname = "NIKHIL"
+global.botname = "WA-SN-V1"
 global.ownernumber = '919505579643'
 global.ownername = 'NIKHIL'
 global.ownerNumber = ["919505579643@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@NOTUBE"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.ownerweb = "https://instagram.com/nikki_rs200_rider?igshid=ZDc4ODBmNjlmNQ=="
+global.websitex = "https://instagram.com/nikki_rs200_rider?igshid=ZDc4ODBmNjlmNQ=="
+global.wagc = "https://chat.whatsapp.com/IR1FCvKT2Cw05jwJVYyIN"
 global.themeemoji = '🪀'
 global.wm = "NIKHIL Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
+global.botscript = 'https://wa.me/919505579643' //script link
+global.packname = "Sticker By nikhil"
 global.author = "NIKHIL\n\n+919505579643"
 global.creator = "919505579643@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
